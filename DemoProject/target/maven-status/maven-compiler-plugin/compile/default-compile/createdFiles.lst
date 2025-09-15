@@ -1,0 +1,8 @@
+utilities\ScreenShotUtility.class
+pages\LoginPage.class
+utilities\ExcelUtility.class
+constant\Constant.class
+pages\ManageNewsPage.class
+utilities\FileUploadUtility.class
+utilities\WaitUtility.class
+utilities\PageUtility.class
